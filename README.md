@@ -1,2 +1,2 @@
 # Review_Classifier
-Reviews Classifier using Natural Language Processing.
+Classifying the reviews recieved by a a local restaurant using Natural Language Processing and Machine Learning
